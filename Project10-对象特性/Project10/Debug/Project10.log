@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\Personal\Project10\Project10\main.cpp(362,16): warning C4269: “m2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+D:\C++\Personal\Project10\Project10\main.cpp(361,8): warning C4101: “m1”: 未引用的局部变量
+  Project10.vcxproj -> D:\C++\Personal\Project10\Debug\Project10.exe
