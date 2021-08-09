@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\Personal\Project13-多态（类的）\Project13-多态（类的）\main.cpp(66): warning C4715: “calculator::calculate”: 不是所有的控件路径都返回值
+  Project13-多态（类的）.vcxproj -> D:\C++\Personal\Project13-多态（类的）\Debug\Project13-多态（类的）.exe
