@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\Personal\Project14-文件操作\Project14-文件操作\main.cpp(12,11): warning C4129: “C”: 不可识别的字符转义序列
+D:\C++\Personal\Project14-文件操作\Project14-文件操作\main.cpp(12,11): warning C4129: “P”: 不可识别的字符转义序列
+  Project14-文件操作.vcxproj -> D:\C++\Personal\Project14-文件操作\Debug\Project14-文件操作.exe
