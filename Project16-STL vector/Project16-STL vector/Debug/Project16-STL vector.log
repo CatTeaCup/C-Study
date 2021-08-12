@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\Personal\Project16-STL vector\Project16-STL vector\main.cpp(130,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project16-STL vector.vcxproj -> D:\C++\Personal\Project16-STL vector\Debug\Project16-STL vector.exe
