@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\C++\Personal\Project17-STL string\Project17-STL string\main.cpp(70,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\Personal\Project17-STL string\Project17-STL string\main.cpp(81,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++\Personal\Project17-STL string\Project17-STL string\main.cpp(144,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project17-STL string.vcxproj -> D:\C++\Personal\Project17-STL string\x64\Debug\Project17-STL string.exe
